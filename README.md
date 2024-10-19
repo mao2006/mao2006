@@ -29,6 +29,14 @@
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
+---
+
+### 📱 Find Me 
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mao2006)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sakurajimamai2)
+[![Blog](https://img.shields.io/badge/Blog-FF4081?style=for-the-badge&logo=blogger&logoColor=white)](https://imjh.xyz)
+
 <!--
 **mao2006/mao2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
