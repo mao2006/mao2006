@@ -20,6 +20,15 @@
 
 ---
 
+### 💻 Workspaces 
+
+![CPU](https://img.shields.io/badge/Intel-Core_i9_13970F-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/Nvidia-RTX_4060_Laptop-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 <!--
 **mao2006/mao2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
